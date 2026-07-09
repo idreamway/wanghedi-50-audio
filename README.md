@@ -1,0 +1,10 @@
+# wanghedi-50-audio
+
+王鶴棣50篇口播文稿TTS音频集
+
+- 发音人：zh-CN-XiaoxiaoNeural（晓晓，温暖亲切女青年音）
+- 引擎：edge-tts
+- 参数：Rate -3%, Pitch +0Hz, Volume +0%
+- 格式：MP3
+- 总计：50个文件
+- 处理：去除标题行，仅保留正文
